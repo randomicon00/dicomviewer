@@ -56,6 +56,16 @@ Open `http://localhost:3000`.
 3. Use toolbar tools to inspect the image.
 4. Open **DICOM Tags** to inspect metadata.
 
+## Screenshots
+
+### Main Viewer UI
+
+![DICOM Viewer UI](https://github.com/user-attachments/assets/075e8b22-302d-4559-b5f6-4e424e3e69d1)
+
+### Tags Search Modal
+
+![DICOM Tags Modal](https://github.com/user-attachments/assets/dfef4add-b759-49b2-8c73-ea737999f88b)
+
 ## Notes
 
 - This project is intended for development and educational use.
