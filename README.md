@@ -68,5 +68,4 @@ Open `http://localhost:3000`.
 
 ## Notes
 
-- This project is intended for development and educational use.
 - Do not upload real patient-identifiable studies to untrusted environments.
